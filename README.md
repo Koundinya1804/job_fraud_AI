@@ -175,12 +175,4 @@ This tool is designed to assist job seekers in identifying potentially fraudulen
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## 👤 Author
-
-**Koundinya1804**  
-Built with Python, Streamlit, scikit-learn, and Sentence Transformers.
-
----
-
 *If this project helped you, consider giving it a ⭐ on GitHub!*
